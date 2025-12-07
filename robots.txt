@@ -27,9 +27,9 @@ User-agent: PerplexityBot
 Allow: /
 
 # Sitemaps
-Sitemap: https://thecouzina.example.com/sitemap.xml
-Sitemap: https://thecouzina.example.com/sitemap-pages.xml
-Sitemap: https://thecouzina.example.com/sitemap-images.xml
+Sitemap: https://bb2e0dc8.thecouzina.pages.dev/sitemap.xml
+Sitemap: https://bb2e0dc8.thecouzina.pages.dev/sitemap-pages.xml
+Sitemap: https://bb2e0dc8.thecouzina.pages.dev/sitemap-images.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1

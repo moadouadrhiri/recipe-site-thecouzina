@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>thecouzina</title>
-    <link>https://thecouzina.example.com</link>
+    <link>https://bb2e0dc8.thecouzina.pages.dev</link>
     <description>thecouzina is a moroccan kitchen speciality </description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 18:59:18 GMT</lastBuildDate>
-    <atom:link href="https://thecouzina.example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 07 Dec 2025 19:21:38 GMT</lastBuildDate>
+    <atom:link href="https://bb2e0dc8.thecouzina.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
-      <url>https://thecouzina.example.com/logo.png</url>
+      <url>https://bb2e0dc8.thecouzina.pages.dev/logo.png</url>
       <title>thecouzina</title>
-      <link>https://thecouzina.example.com</link>
+      <link>https://bb2e0dc8.thecouzina.pages.dev</link>
     </image>
     
     <item>
       <title><![CDATA[Irresistible Moroccan Couscous Recipe - Flavorful & Easy]]></title>
-      <link>https://thecouzina.example.com/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy</link>
+      <link>https://bb2e0dc8.thecouzina.pages.dev/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy</link>
       <description><![CDATA[Discover the best Moroccan couscous recipe packed with flavor. Delight in this easy dish with tips and variations. Try it today!]]></description>
       <pubDate>Sun, 07 Dec 2025 18:58:42 GMT</pubDate>
-      <guid isPermaLink="true">https://thecouzina.example.com/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy</guid>
+      <guid isPermaLink="true">https://bb2e0dc8.thecouzina.pages.dev/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy</guid>
       <enclosure url="couzintk.site/recipes/hero/3a6c7afe-30a2-4ce1-98dc-d17e9426720b.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title><![CDATA[Perfectly Slow-Cooked Moroccan Tanjia Recipe for Flavorful Feasts]]></title>
-      <link>https://thecouzina.example.com/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts</link>
+      <link>https://bb2e0dc8.thecouzina.pages.dev/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts</link>
       <description><![CDATA[Discover the secrets to a perfect Moroccan Tanjia. Slow-cooked for depth, this recipe will become a family favorite. Try it today!]]></description>
       <pubDate>Sun, 07 Dec 2025 18:58:42 GMT</pubDate>
-      <guid isPermaLink="true">https://thecouzina.example.com/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts</guid>
+      <guid isPermaLink="true">https://bb2e0dc8.thecouzina.pages.dev/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts</guid>
       <enclosure url="couzintk.site/recipes/hero/04f11d21-0ff7-4de5-b533-f62ef80a9a1f.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title><![CDATA[Authentic Moroccan Bastila Recipe: A Flavorful Journey]]></title>
-      <link>https://thecouzina.example.com/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey</link>
+      <link>https://bb2e0dc8.thecouzina.pages.dev/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey</link>
       <description><![CDATA[Discover the rich flavors of Moroccan Bastila with our authentic recipe. Perfect for special occasions. Try it today!]]></description>
       <pubDate>Sun, 07 Dec 2025 18:58:42 GMT</pubDate>
-      <guid isPermaLink="true">https://thecouzina.example.com/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey</guid>
+      <guid isPermaLink="true">https://bb2e0dc8.thecouzina.pages.dev/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey</guid>
       <enclosure url="couzintk.site/recipes/hero/1a9f9224-01ea-43d8-9bb3-3d92a57a93fd.jpg" type="image/jpeg"/>
     </item>
   </channel>
