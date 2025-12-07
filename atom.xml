@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>thecouzina</title>
+  <subtitle>thecouzina is a moroccan kitchen speciality </subtitle>
+  <link href="https://thecouzina.example.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://thecouzina.example.com" rel="alternate" type="text/html"/>
+  <id>https://thecouzina.example.com/</id>
+  <updated>2025-12-07T18:59:18.042Z</updated>
+  
+  <entry>
+    <title><![CDATA[Irresistible Moroccan Couscous Recipe - Flavorful & Easy]]></title>
+    <link href="https://thecouzina.example.com/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy" rel="alternate" type="text/html"/>
+    <id>https://thecouzina.example.com/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy</id>
+    <published>2025-12-07T18:58:42.446Z</published>
+    <updated>2025-12-07T18:58:42.446Z</updated>
+    <summary><![CDATA[Discover the best Moroccan couscous recipe packed with flavor. Delight in this easy dish with tips and variations. Try it today!]]></summary>
+    <author>
+      <name>thecouzina</name>
+    </author>
+  </entry>
+  <entry>
+    <title><![CDATA[Perfectly Slow-Cooked Moroccan Tanjia Recipe for Flavorful Feasts]]></title>
+    <link href="https://thecouzina.example.com/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts" rel="alternate" type="text/html"/>
+    <id>https://thecouzina.example.com/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts</id>
+    <published>2025-12-07T18:58:42.401Z</published>
+    <updated>2025-12-07T18:58:42.401Z</updated>
+    <summary><![CDATA[Discover the secrets to a perfect Moroccan Tanjia. Slow-cooked for depth, this recipe will become a family favorite. Try it today!]]></summary>
+    <author>
+      <name>thecouzina</name>
+    </author>
+  </entry>
+  <entry>
+    <title><![CDATA[Authentic Moroccan Bastila Recipe: A Flavorful Journey]]></title>
+    <link href="https://thecouzina.example.com/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey" rel="alternate" type="text/html"/>
+    <id>https://thecouzina.example.com/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey</id>
+    <published>2025-12-07T18:58:42.312Z</published>
+    <updated>2025-12-07T18:58:42.312Z</updated>
+    <summary><![CDATA[Discover the rich flavors of Moroccan Bastila with our authentic recipe. Perfect for special occasions. Try it today!]]></summary>
+    <author>
+      <name>thecouzina</name>
+    </author>
+  </entry>
+</feed>

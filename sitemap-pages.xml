@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://thecouzina.example.com/</loc>
+    <lastmod>2025-12-07T18:59:18.041Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://thecouzina.example.com/recipe/authentic-moroccan-bastila-recipe-a-flavorful-journey</loc>
+    <lastmod>2025-12-07T18:58:42.312Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thecouzina.example.com/recipe/perfectly-slow-cooked-moroccan-tanjia-recipe-for-flavorful-feasts</loc>
+    <lastmod>2025-12-07T18:58:42.401Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thecouzina.example.com/recipe/irresistible-moroccan-couscous-recipe-flavorful-easy</loc>
+    <lastmod>2025-12-07T18:58:42.446Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
